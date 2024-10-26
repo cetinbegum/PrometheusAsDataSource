@@ -2,4 +2,4 @@
 
 ![alt](/SemblanceErrors/04_B_connectionerror.png) 
 
-# Fotğraf altına metin eklendi.
+# I learned how to add text under photos.
